@@ -97,8 +97,6 @@ border-radius: 7px;
     .grid-container{
         display: grid;
         grid-template-columns: auto auto auto;
-
-
     }
 .grid-single-item{
     padding: 3rem;
@@ -116,12 +114,7 @@ border-radius: 7px;
 }
 /* Work section */
 .grid-single-item .grid-single-image{
-    width: 200px;
-}
-.work-item{
-    display: grid;
-    grid-template-columns: auto;
-    text-align: center;
+    width: 400px;
 }
 /* Testimonial section */
 .single-item-color{
